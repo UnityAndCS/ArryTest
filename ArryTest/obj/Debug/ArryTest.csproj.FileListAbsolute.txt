@@ -1,0 +1,7 @@
+D:\C#\ArryTest\ArryTest\bin\Debug\ArryTest.exe.config
+D:\C#\ArryTest\ArryTest\bin\Debug\ArryTest.exe
+D:\C#\ArryTest\ArryTest\bin\Debug\ArryTest.pdb
+D:\C#\ArryTest\ArryTest\obj\Debug\ArryTest.csprojAssemblyReference.cache
+D:\C#\ArryTest\ArryTest\obj\Debug\ArryTest.csproj.CoreCompileInputs.cache
+D:\C#\ArryTest\ArryTest\obj\Debug\ArryTest.exe
+D:\C#\ArryTest\ArryTest\obj\Debug\ArryTest.pdb
